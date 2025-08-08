@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgebailon001
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning C language for engineers
+- 🌱 I’m currently learning C++ and Java language for engineers
 - 💞️ I’m looking to collaborate on beginer level projects to practice my coding
 - 📫 How to reach me email: jorge.bailon001@gmail.com
 
